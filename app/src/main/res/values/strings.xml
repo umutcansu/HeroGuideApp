@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HeroGuideApp</string>
+    <string name="search_hint">Enter Hero Name</string>
+</resources>
